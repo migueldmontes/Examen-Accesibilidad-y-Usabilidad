@@ -13,4 +13,8 @@ document.getElementById("contact-form").addEventListener("submit", function(even
     } else {
         email.setAttribute("aria-invalid", "false");
     }
+    // Alternar modo oscuro / alto contraste
+document.getElementById("toggle-contrast").addEventListener("change", function() {
+    document.body.classList.toggle("high-contrast");
 });
+
