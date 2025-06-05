@@ -1,4 +1,5 @@
-# Examen-Accesibilidad-y-UsabilidadExamen Práctico: Accesibilidad y Usabilidad Web
+# Examen-Accesibilidad-y-Usabilidad
+Examen Práctico: Accesibilidad y Usabilidad Web
 Duración: 3 horas Bloque temático: Accesibilidad (WCAG + ARIA) y Usabilidad (principios de Jakob Nielsen) Requisitos:
 ● HTML5 + CSS3
 ● JavaScript (manipulación del DOM, validación de formularios, accesibilidad con JS)
