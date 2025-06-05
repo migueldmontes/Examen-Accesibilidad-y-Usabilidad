@@ -19,3 +19,7 @@ button {
     padding: 10px;
     cursor: pointer;
 }
+.high-contrast {
+    background-color: black;
+    color: white;
+}
